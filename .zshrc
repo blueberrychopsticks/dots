@@ -147,11 +147,6 @@ source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
 compctl -g '~/.itermocil/*(:t:r)' itermocil
 
 # from https://enoemos.notion.site/Solana-s-Token-Program-Explained-by-Matt-Lim-Medium-45facb90bca94cef87c95eb9d77409e5
-export SOL1=7EKY8tKnpNWAY1Fj4HyWqcRZ5VgTr6hqM896NACyphDB
-export SOL2=3VEmtYc56w71dUsak5YMUuXRDiaRqpacKC9GvpuQnD5i
-
-export TOKEN1=8VYdbfcLJbUj925nCS2djP8EeDKZp8GqP623jnn43XWM
-export TOKENACCT1=CGwQGLsVN9b6SV1syE9E7q7ZkPs6rAfiiuAS7mLi1nCE
 
 # ## History Preservation
 ## TAKE 1
